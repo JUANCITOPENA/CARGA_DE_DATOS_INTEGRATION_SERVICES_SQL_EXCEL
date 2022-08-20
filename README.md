@@ -8,12 +8,9 @@ La herramienta de SQL Server Integration Services (SSIS) es parte de la Intelige
 
 
 ###
-![ ](REPORTE1.png)
+![ ](ETL2.png)
 
-![ ](REPORTE2.png)
-
-![ ](REPORTE3.png)
-
+![ ](ETL3.png)
 
 ## 📚 MANUAL DOCUMENTADO:
 https://docs.google.com/presentation/...
