@@ -1,7 +1,7 @@
 # CARGA_DE_DATOS_INTEGRATION_SERVICES_SQL_EXCEL
 CARGA DE DATOS DESDE EXCEL A SQL POR INTEGRATION SERVICES ETL DESDE EXCEL A SQL SERVER
 
-![ ](REPORTE1.png)
+![ ](ETL.png)
 
 La herramienta de SQL Server Integration Services (SSIS) es parte de la Inteligencia de Negocios que permite realizar procesos de Extracción, Transforamación y Carga (ETL)  de los datos para luego proceder a explotar la información empresarial para apoyar en la toma de decisiones.
 
